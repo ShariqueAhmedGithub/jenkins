@@ -1,1 +1,1 @@
-echo "This is from Git"
+echo "This is from Github"
